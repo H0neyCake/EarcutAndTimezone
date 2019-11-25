@@ -1,0 +1,8 @@
+C:\Users\Dmitry\source\repos\EarcutAndTimezone\EarcutAndTimezone\bin\Debug\EarcutAndTimezone.dll
+C:\Users\Dmitry\source\repos\EarcutAndTimezone\EarcutAndTimezone\bin\Debug\EarcutAndTimezone.pdb
+C:\Users\Dmitry\source\repos\EarcutAndTimezone\EarcutAndTimezone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitry\source\repos\EarcutAndTimezone\EarcutAndTimezone\obj\Debug\EarcutAndTimezone.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\EarcutAndTimezone\EarcutAndTimezone\obj\Debug\EarcutAndTimezone.csproj.CopyComplete
+C:\Users\Dmitry\source\repos\EarcutAndTimezone\EarcutAndTimezone\obj\Debug\EarcutAndTimezone.dll
+C:\Users\Dmitry\source\repos\EarcutAndTimezone\EarcutAndTimezone\obj\Debug\EarcutAndTimezone.pdb
+C:\Users\Dmitry\source\repos\EarcutAndTimezone\EarcutAndTimezone\obj\Debug\EarcutAndTimezone.csproj.Fody.CopyLocal.cache
